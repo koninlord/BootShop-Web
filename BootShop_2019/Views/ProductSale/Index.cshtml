@@ -1,0 +1,56 @@
+﻿@model IEnumerable<BootShop_2019.Models.ViewModels.ProductSaleViewModel>
+
+@{
+    ViewData["Title"] = "Sales";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Sold Products</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Picture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SalePersonName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TimeSold)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @if (item.Picture == null)
+                {
+                    <img height="150" width="150" class="img-thumbnail" src="~/img/logo-thumb.jpg" alt="Product Pic" />
+                }
+                else
+                {
+                    <img height="150" width="150" class="img-thumbnail" src="data:image/jpg;base64,@(Html.Raw(Convert.ToBase64String(item.Picture)))" alt="Product Pic" />
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SalePersonName)
+            </td>
+            <td>
+                @item.TimeSold.ToLongDateString() - @item.TimeSold.ToLongTimeString()
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<BootShop_2019.Models.ViewModels.ProductViewModel>
+
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>All Products</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-info">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Picture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SerialNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @if (item.Picture == null)
+                {
+                    <img height="150" width="150" class="img-thumbnail" src="~/img/logo-thumb.jpg" alt="Product Pic" />
+                }
+                else
+                {
+                    <img height="150" width="150" class="img-thumbnail" src="data:image/jpg;base64,@(Html.Raw(Convert.ToBase64String(item.Picture)))" alt="Product Pic" />
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SerialNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductCategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

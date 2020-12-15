@@ -1,0 +1,106 @@
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.deps.json
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.runtimeconfig.json
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.runtimeconfig.dev.json
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.dll
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.pdb
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.Views.dll
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.Views.pdb
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.csprojAssemblyReference.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.csproj.CoreCompileInputs.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorAssemblyInfo.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorAssemblyInfo.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.AssemblyInfoInputs.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.AssemblyInfo.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.TagHelpers.input.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.TagHelpers.output.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorCoreGenerate.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorTargetAssemblyInfo.cache
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorTargetAssemblyInfo.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.Views.pdb
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.dll
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.pdb
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.csproj.CopyComplete
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Create.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Delete.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Edit.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Index.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Create.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Delete.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Details.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Edit.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Index.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductSale\Index.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductSale\Delete.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductSale\Create.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Create.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Delete.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Details.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Edit.g.cshtml.cs
+C:\Users\CalebWS\source\TechCollection\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Index.g.cshtml.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.deps.json
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.runtimeconfig.json
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.runtimeconfig.dev.json
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.dll
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.pdb
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.Views.dll
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\BootShop_2019.Views.pdb
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.csprojAssemblyReference.cache
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorAssemblyInfo.cache
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorAssemblyInfo.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.AssemblyInfoInputs.cache
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.AssemblyInfo.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.TagHelpers.input.cache
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.TagHelpers.output.cache
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorCoreGenerate.cache
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorTargetAssemblyInfo.cache
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.RazorTargetAssemblyInfo.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.Views.pdb
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.dll
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.pdb
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\BootShop_2019.csproj.CopyComplete
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Create.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Delete.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Details.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Edit.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategory\Index.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductSale\Create.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductSale\Delete.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\ProductSale\Index.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Create.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Delete.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Details.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Edit.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\SalePerson\Index.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Create.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Delete.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Edit.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lord\Downloads\Telegram Desktop\BootShop_2019\BootShop_2019\BootShop_2019\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs

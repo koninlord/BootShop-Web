@@ -1,0 +1,47 @@
+﻿@model IEnumerable<BootShop_2019.Models.ViewModels.ShopViewModel>
+
+@{
+    ViewData["Title"] = "Manage Shops";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Manage Shops</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-info">Create New</a>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopLocation)
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopLocation)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
